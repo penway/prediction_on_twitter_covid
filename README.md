@@ -20,7 +20,7 @@ Thanks a lot to these datasets.
 
 I utilize some covid data as features to train a model on predicting sentiment data.
 
-![sentiment data](./pics/sentiment dataset.png)
+![sentiment data](./pics/sentiment_dataset.png)
 
 ![covid](./pics/newC.png)
 
