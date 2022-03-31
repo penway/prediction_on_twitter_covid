@@ -1,5 +1,7 @@
 # Prediction on Twitter COVID
 
+This project is aimed to make daily prediction on people's overall attitude towards COVID-19 based on the epidemic data.
+
 This project use pyspark as the fundamental to enable large scale prediction on distributed cluster.
 
 It can be deployed on hadoop cluster or only a python environment.
